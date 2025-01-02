@@ -78,5 +78,5 @@ Este projeto é de código aberto e distribuído sob a Licença MIT. Fique à vo
 ## **Sobre o Autor**
 Fiz esse projeto pra mim, mas espero que seja útil para outros também! 
 A ideia era ter algo simples, direto, e que me permitisse monitorar facilmente o desempenho do meu Raspberry Pi durante o desenvolvimento.
-Eder Garbin
+
 
